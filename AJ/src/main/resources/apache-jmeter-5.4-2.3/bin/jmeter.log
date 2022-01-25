@@ -1,0 +1,36 @@
+2022-01-24 21:50:01,220 INFO o.a.j.u.JMeterUtils: Setting Locale to zh_CN
+2022-01-24 21:50:01,254 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2022-01-24 21:50:01,255 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2022-01-24 21:50:01,276 INFO o.a.j.JMeter: Copyright (c) 1998-2021 The Apache Software Foundation
+2022-01-24 21:50:01,276 INFO o.a.j.JMeter: Version 5.4.3
+2022-01-24 21:50:01,276 INFO o.a.j.JMeter: java.version=1.8.0_311
+2022-01-24 21:50:01,276 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2022-01-24 21:50:01,276 INFO o.a.j.JMeter: os.name=Mac OS X
+2022-01-24 21:50:01,276 INFO o.a.j.JMeter: os.arch=x86_64
+2022-01-24 21:50:01,276 INFO o.a.j.JMeter: os.version=10.16
+2022-01-24 21:50:01,276 INFO o.a.j.JMeter: file.encoding=UTF-8
+2022-01-24 21:50:01,276 INFO o.a.j.JMeter: java.awt.headless=null
+2022-01-24 21:50:01,277 INFO o.a.j.JMeter: Max memory     =3817865216
+2022-01-24 21:50:01,277 INFO o.a.j.JMeter: Available Processors =8
+2022-01-24 21:50:01,287 INFO o.a.j.JMeter: Default Locale=中文 (中国)
+2022-01-24 21:50:01,288 INFO o.a.j.JMeter: JMeter  Locale=中文 (中国)
+2022-01-24 21:50:01,288 INFO o.a.j.JMeter: JMeterHome=/Users/wangziyi/App/apache-jmeter-5.4-2.3
+2022-01-24 21:50:01,288 INFO o.a.j.JMeter: user.dir  =/Users/wangziyi/App/apache-jmeter-5.4-2.3/bin
+2022-01-24 21:50:01,289 INFO o.a.j.JMeter: PWD       =/Users/wangziyi/App/apache-jmeter-5.4-2.3/bin
+2022-01-24 21:50:01,294 INFO o.a.j.JMeter: IP: 192.168.31.86 Name: wangziyideMBP FullName: wangziyidembp
+2022-01-24 21:50:01,871 INFO o.a.j.JMeter: Setting LAF to: laf:com.apple.laf.AquaLookAndFeel
+2022-01-24 21:50:03,295 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2022-01-24 21:50:15,049 INFO o.a.j.s.FileServer: Default base='/Users/wangziyi/App/apache-jmeter-5.4-2.3/bin'
+2022-01-24 21:50:15,057 INFO o.a.j.g.a.Load: Loading file: /Users/wangziyi/App/AJ/src/main/resources/files/example.jmx
+2022-01-24 21:50:15,058 INFO o.a.j.s.FileServer: Set new base='/Users/wangziyi/App/AJ/src/main/resources/files'
+2022-01-24 21:50:15,218 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2022-01-24 21:50:15,482 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2022-01-24 21:50:15,484 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2022-01-24 21:50:15,490 INFO o.a.j.s.SaveService: Loading file: /Users/wangziyi/App/AJ/src/main/resources/files/example.jmx
+2022-01-24 21:50:15,539 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-01-24 21:50:15,540 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-01-24 21:50:15,540 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-01-24 21:50:15,540 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-01-24 21:50:15,540 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2022-01-24 21:50:15,540 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2022-01-24 21:50:15,764 INFO o.a.j.s.FileServer: Set new base='/Users/wangziyi/App/AJ/src/main/resources/files'

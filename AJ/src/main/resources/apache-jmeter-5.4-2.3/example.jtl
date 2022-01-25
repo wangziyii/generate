@@ -1,0 +1,3 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1642474189928,314,Open qq.com,302,Moved Temporarily,Example Thread Group 1-1,text,true,,346,105,1,1,313,0,281
+1642474190244,85,Open baidu.com,200,OK,Example Thread Group 1-1,text,true,,381,108,1,1,85,0,68
